@@ -1,6 +1,16 @@
 # CipherSchools_MCQ_website_project
 Platform for interactive multiple-choice quizzes designed to challenge and assess your knowledge across various topics.
 
+In the project directory - backend, you can run:
+node server.js
+Runs the backend server.
+
+After running above command, follow below process:
+
+In the project directory - frontend, you can run:
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
 ![Screenshot (2760)](https://github.com/user-attachments/assets/c10ddf57-6897-419a-9b6e-4c3e5a3eff6a)
 
